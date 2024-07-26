@@ -1,1 +1,2 @@
-
+{AUTORUN}
+file=main.mdl
